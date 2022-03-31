@@ -1,10 +1,10 @@
-package day04;
+package day04_multiarray;
 
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class TicTacToeGame {
+public class _04_TicTacToeGame {
 	static String[][] ttt= new String[3][3];
 	
 	public static void main(String[] args) {		
