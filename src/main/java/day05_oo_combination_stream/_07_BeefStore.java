@@ -1,10 +1,7 @@
 package day05_oo_combination_stream;
 
 import java.util.Arrays;
-import java.util.Optional;
 import java.util.OptionalDouble;
-
-import org.w3c.dom.ls.LSOutput;
 
 public class _07_BeefStore {
 
