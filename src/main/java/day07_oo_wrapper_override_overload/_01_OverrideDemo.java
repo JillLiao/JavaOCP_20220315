@@ -13,7 +13,7 @@ class Son extends Father {
         System.out.println("LoL");
     }
     void hello() { // Son 自己的方法
-        System.out.println("Father的x = " + super.x);
+//        System.out.println("Father的x = " + super.x);
     	System.out.println("Hello son");
     }
 }
@@ -22,6 +22,6 @@ public class _01_OverrideDemo {
         Son son = new Son();
         son.play();
         son.hello();
-        System.out.println("Son的x = " + son.x);
+        System.out.println("son的x = " + son.x);
     }
 }
